@@ -6,7 +6,7 @@ This repository contains the code and notebooks for the research paper titled "A
 ## Notebooks Description
 1. **Data Preprocessing.ipynb**: The notebook contains the data preprocessing steps applied to the raw student test result dataset.
 2. **Clustering Analysis.ipynb**: This notebook showcases the clustering analysis on the original student test result dataset without data augmentation.
-3. **Augmentation.ipynb**: This notebook demonstrates the data augmentation process to create a synthetic dataset with desired characteristics for the clustering analysis.
+3. **Augmentation.ipynb**: This notebook demonstrates the data augmentation process to create a synthetic.
 4. **Clustering Analysis - Augmented Data.ipynb**: In this notebook, we perform clustering analysis on the augmented dataset to identify distinct groups of students based on their test performance patterns.
 
 ## Citation
