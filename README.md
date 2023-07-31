@@ -1,4 +1,4 @@
-# Title: Analyzing Proficiency Patterns in Test Results Using Clustering and Augmentation Algorithms
+# Analyzing Proficiency Patterns in Test Results Using Clustering and Augmentation Algorithms
 
 ## Introduction
 This repository contains the code and notebooks for the research paper titled "Analyzing Proficiency Patterns in Test Results Using Clustering and Augmentation Algorithms." The paper investigates the utilization of clustering analysis on student test results and explores its potential impact on interpretation. By employing clustering techniques, the study aims to identify meaningful patterns in student performance.
